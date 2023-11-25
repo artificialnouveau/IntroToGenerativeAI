@@ -9,6 +9,12 @@ To get started with voice and face cloning, you can use the following Google Col
 Notebook for Generative AI:
 [![Open Generative AI Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/a7bf8132042845210fce69ff0df7e960/iii_generative_ai_2023.ipynb)
 
+Notebook for Voice Cloning:
+[![Open Voice Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/ed4f01cbbb665887cf41d1e672d73430/impakt2023-voice-cloning-with-advanced-rvc-inference.ipynb?authuser=1)
+
+OR GO TO HUGGING FACE FOR THE VOICE CLONING:
+https://huggingface.co/spaces/jarvislk/Advanced-RVC-Inference-voice-chaner
+
 
 ## Usage
 
